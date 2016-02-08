@@ -24,4 +24,4 @@ huehuehue
 
 
 ###COPYRIGHT
-Git.training @ 2015
+Git.training @ 2015 All Rights Reserved.
