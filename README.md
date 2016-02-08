@@ -19,3 +19,7 @@ LA LA LA
 MOI MOI MOI
 DE DE DE
 huehuehue
+
+
+###COPYRIGHT
+Git.training @ 2015
