@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Smith	jsmith@git.com
 
 # THANKS
 
