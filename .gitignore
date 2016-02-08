@@ -30,3 +30,7 @@
 
 # Specific files
 gcp
+
+
+# Other
+*.orig
