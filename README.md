@@ -12,7 +12,7 @@ TO CRUSH
 PEW LE PEW
 
 ##How to Contribute
-
+DERP A DERP TWERP SERP
 
 LA LA LA
 MOI MOI MOI
