@@ -1,4 +1,5 @@
 // Avoid `console` errors in browsers that lack a console.
+// moooooo
 (function() {
     var method;
     var noop = function () {};
