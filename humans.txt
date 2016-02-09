@@ -3,9 +3,9 @@
 
 qwerfgwtr
 # TEAM
-
-    John Smith	jsmith@git.com
-	Jane Smith	jsmith2@git.com
+	Jacqueline Smithe		jsmithe@git.com
+    John Smith				jsmith@git.com
+	Jane Smith				jsmith2@git.com
 # THANKS
 
     Thanks to all my peeps
