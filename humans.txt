@@ -1,10 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+qwerfgwtr
 # TEAM
 
     John Smith	jsmith@git.com
-
+	Jane Smith	jsmith2@git.com
 # THANKS
 
     Thanks to all my peeps
