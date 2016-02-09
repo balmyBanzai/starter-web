@@ -6,7 +6,7 @@ qwerfgwtr
 	Jacqueline Smithe		jsmithe@git.com
     John Smith				jsmith@git.com
 	Jane Smith				jsmith2@git.com
-# THANKS
+# THANKIES
 
     Thanks to all my peeps
 	And the other peeps too
