@@ -1,7 +1,6 @@
 #Starter Web Project
 This is a thing that things to things thinging
-EMERGENCY FIX
-AFTER STASH
+Floom
 Room 21
 
 ##Introductrion
