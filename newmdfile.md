@@ -1,14 +1,15 @@
-- Markdown original: 2004, considered good but not enough
-- Enhanced Versions:
--- Markdown Extra -> PHP Module
--- Multi-Markdown -> Extended markdown syntax adopted by a pop editor, is original markdown + markdown extra + personal enhancements
--- GitHub flavored markdown -> Most popular markdown today
--- Several more...
+* Markdown original: 2004, considered good but not enough
+* Enhanced Versions:
+ * Markdown Extra -> PHP Module
+  * Multi-Markdown -> Extended markdown syntax adopted by a pop editor, is original markdown + markdown extra + personal enhancements
+  * GitHub flavored markdown -> Most popular markdown today
+  * Several more...
 
 
 
 
-=========ORIGINAL MARKDOWN SYNTAX=========
+# =========ORIGINAL MARKDOWN SYNTAX=========
+---
 
 
 
@@ -224,7 +225,8 @@ Definition lists are not supported by core-markdown syntax.
 	
 
 
-=========ENHANCED MARKDOWN=========
+# =========ENHANCED MARKDOWN=========
+---
 	
 
 
