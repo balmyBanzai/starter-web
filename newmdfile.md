@@ -8,7 +8,7 @@
 
 
 
-# =========ORIGINAL MARKDOWN SYNTAX=========
+# ======ORIGINAL MARKDOWN SYNTAX======
 ---
 
 
